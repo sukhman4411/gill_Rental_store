@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gill_Rental_store", "gill_Rental_store\gill_Rental_store.csproj", "{AE991EE0-99C4-4369-BA8A-471054D8D56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gill_Rental_storeTests", "gill_Rental_storeTests\gill_Rental_storeTests.csproj", "{C5B4923A-2ECA-4CB5-9A1F-E599C9A8B097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE991EE0-99C4-4369-BA8A-471054D8D56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE991EE0-99C4-4369-BA8A-471054D8D56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE991EE0-99C4-4369-BA8A-471054D8D56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE991EE0-99C4-4369-BA8A-471054D8D56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B4923A-2ECA-4CB5-9A1F-E599C9A8B097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B4923A-2ECA-4CB5-9A1F-E599C9A8B097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B4923A-2ECA-4CB5-9A1F-E599C9A8B097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B4923A-2ECA-4CB5-9A1F-E599C9A8B097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63120666-BA57-4D9B-9316-D624F68155F5}
+	EndGlobalSection
+EndGlobal
